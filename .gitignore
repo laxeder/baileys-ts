@@ -79,6 +79,10 @@ web_modules/
 .env.production.local
 .env.local
 
+# baileys sessions
+
+session/*
+
 # parcel-bundler cache (https://parceljs.org/)
 .cache
 .parcel-cache
